@@ -1,7 +1,7 @@
 ###Olá tudo bem? Meu nome é Kaique0302👋
 
 - 🔭 Eu atualmente trabalho em uma estamparia
-- 🌱 Estudando Html,Css,Javascript,Java,.Net,banco de dados
+- 🌱 Estudando Front-End
 - 📫 Entre em contato no email: kaiquegamerde@gmail.com
 - 😄 Pronouns: ele/dele
 
