@@ -1,6 +1,5 @@
 ###Olá tudo bem? Meu nome é Kaique0302👋
 
-- 🔭 Eu atualmente trabalho em uma estamparia
 - 🌱 Estudando Front-End
 - 📫 Entre em contato no email: kaiquegamerde@gmail.com
 - 😄 Pronouns: ele/dele
