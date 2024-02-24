@@ -1,8 +1,9 @@
-###Olá tudo bem? Meu nome é Kaique0302👋
+###Olá tudo bem? Meu nome é Kaique👋
 
 - 🌱 Estudando Front-End
+- 🌱 Ciências da Computação 1/8 
 - 📫 Entre em contato no email: kaiquegamerde@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/Kaique0302">
