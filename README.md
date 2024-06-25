@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Front-End
 - 🌱 Ciências da Computação 1/8 
-- 📫 Entre em contato no email: kaiquegamerde@gmail.com
+- 📫 Entre em contato no email: menolivek@gmail.com
 
 
 <div align="center">
