@@ -1,6 +1,6 @@
 ###Olá tudo bem? Meu nome é Kaique👋
 
-- 🌱 Estudando Front-End
+- 🌱 Front-end,Back-End and Cibersecurity 
 - 🌱 Ciências da Computação 1/8 
 - 📫 Entre em contato no email: menolivek@gmail.com
 
